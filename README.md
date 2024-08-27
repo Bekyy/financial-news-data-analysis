@@ -8,10 +8,10 @@
 * Python 3.x: Ensure Python is installed on your system.
 * Virtual Environment: Recommended for managing project dependencies.
 * Required Libraries:
->> * pandas: Data manipulation and analysis.
->> * numpy: Numerical operations.
->> * matplotlib: Data visualization.
->> * seaborn: Statistical visualizations.
+  - pandas: Data manipulation and analysis.
+  - numpy: Numerical operations.
+  - matplotlib: Data visualization.
+  - seaborn: Statistical visualizations.
 
 Installation
 
