@@ -1,5 +1,5 @@
-pandas
-numpy
+pandas==1.3.5
+numpy==1.21
 matplotlib
 seaborn
 scikit-learn
@@ -7,3 +7,10 @@ textblob
 genesim
 nltk
 statsmodels
+cvxpy
+TA-Lib
+yfinance
+pyfolio
+pynance
+ta
+pandas-ta
