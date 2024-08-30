@@ -12,6 +12,8 @@
   - numpy: Numerical operations.
   - matplotlib: Data visualization.
   - seaborn: Statistical visualizations.
+  - scikit-learn: for NLP ( topic modeling )
+  - textblob: sentiment analysis
 
 Installation
 

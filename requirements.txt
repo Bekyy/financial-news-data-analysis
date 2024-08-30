@@ -5,3 +5,5 @@ seaborn
 scikit-learn
 textblob     
 genesim
+nltk
+statsmodels
