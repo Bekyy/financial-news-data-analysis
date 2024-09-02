@@ -44,6 +44,7 @@
   - seaborn: Statistical visualizations.
   - scikit-learn: for NLP ( topic modeling )
   - textblob/ nltk: sentiment analysis and topic modeling
+  - TA-Lib: to calculate financial indicators (MA, RSI, MACD)  
 
 **Installation**
 
