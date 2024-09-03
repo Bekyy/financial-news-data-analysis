@@ -15,3 +15,5 @@ pynance
 ta
 pandas-ta
 streamlit
+re
+scipy
