@@ -1,7 +1,7 @@
 # Financial News and Stock Price Integration Dataset (FNSPID) Analysis
 
 **Overview**
-> The Financial News and Stock Price Integration Dataset (FNSPID) is a comprehensive dataset designed to enhance stock market predictions by integrating quantitative stock price data with qualitative news data. This report presents the results of an exploratory data analysis (EDA) on the dataset, encompassing descriptive statistics, text analysis, time series analysis, quantitative financial analysis using TA-Lib and PyNance, and correlation analysis between news and stock movements,.
+> The Financial News and Stock Price Integration Dataset (FNSPID) is a comprehensive dataset designed to enhance stock market predictions by integrating quantitative stock price data with qualitative news data. This repository presents the results of an exploratory data analysis (EDA) on the dataset, encompassing descriptive statistics, text analysis, time series analysis, quantitative financial analysis using TA-Lib and PyNance, and correlation analysis between news and stock movements.
 > This project focuses on the detailed analysis of a large corpus of financial news data to discover correlations between news sentiment and stock market movements. 
 
 ## Dataset Description
